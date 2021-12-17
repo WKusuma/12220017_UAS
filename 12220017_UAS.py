@@ -1,9 +1,9 @@
+import matplotlib.pyplot as plt
 from pandas.core.frame import DataFrame
 import streamlit as st
 import numpy as np
 import pandas as pd
 import json
-import matplotlib.pyplot as plt
 from matplotlib import cm, colors
 from PIL import Image
 
